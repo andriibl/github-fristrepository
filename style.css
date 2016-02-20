@@ -1,0 +1,51 @@
+.wrapper
+{
+	margin-left: 150px;
+	margin-right: 110px;
+}
+
+h1, h2, h3 			{text-align: center;}
+
+h1
+{
+	margin-bottom: 1px;
+}
+
+em 
+{
+	display:block;
+	font-size: 22px;
+	text-align: center;
+	margin-bottom: 25px;
+}
+strong
+{
+	text-align: center;
+	display:block;
+}
+
+.transform-center	{text-align: center;}
+.transform-right	{text-align: right;}
+.text-underline		{text-decoration: underline;}
+
+.img-ball
+{
+	float:left;
+	margin-right: 10px;
+}
+
+.img-mouse			{text-align: center;}
+
+ul,ol
+{
+	margin-top: 50px;
+}
+
+.text-bold
+{
+	font-weight: bold;
+}
+.text-kursiv
+{
+	font-style: italic;
+}
